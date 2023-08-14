@@ -1,0 +1,54 @@
+
+
+img{
+    margin-top: 8px;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 650px;
+
+}
+
+.heading{
+    text-align: center;
+    margin-right: 5%;
+    
+}
+
+h2{
+    color: green;
+    margin-left:120px;
+    
+}
+.icon{
+    margin-left: 120px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 26px;
+}
+
+.skillls{
+    margin-left: 120px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    
+}
+
+.strength{
+    margin-left: 120px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    
+}
+
+.per{
+    margin-left: 130px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 26px;
+    
+}
+
+
